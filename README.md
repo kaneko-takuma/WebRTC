@@ -2,6 +2,7 @@
 
 ## Get Start
 
+1.
 ```md
 yarn
 ```
@@ -10,6 +11,16 @@ or
 npm install
 ```
 
+2.
+```md
+yarn dev
+```
+or
+```md
+npm run dev
+```
+
+3.
 to http://localhost:3000/textchat?name=asd&room=ASD
 
 ## Docs
